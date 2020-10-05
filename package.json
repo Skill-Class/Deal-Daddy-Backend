@@ -1,0 +1,23 @@
+{
+  "name": "deal-daddy-backend",
+  "version": "1.0.0",
+  "description": "Deal-Daddy backend code goes here.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skill-Class/Deal-Daddy-Backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skill-Class/Deal-Daddy-Backend.git/issues"
+  },
+  "homepage": "https://github.com/Skill-Class/Deal-Daddy-Backend.git#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
